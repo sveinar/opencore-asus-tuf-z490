@@ -1,1 +1,2 @@
-# opencore-asus-tuf-z490
+# OpenCore - ASUS TUF GAMING Z490-PLUS (WI-FI)
+
