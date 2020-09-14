@@ -1,0 +1,1 @@
+# opencore-asus-tuf-z490
