@@ -610,7 +610,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02019301QXPHCDFB</string>
+			<string>M0000000000000001</string>
 			<key>ROM</key>
 			<data>JEv+Al+d</data>
 			<key>SpoofVendor</key>
@@ -618,9 +618,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CP1YRPN5T</string>
+			<string>W00000000001</string>
 			<key>SystemUUID</key>
-			<string>516C78A9-CFDA-4FA5-8FFE-4B22C989A46B</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
