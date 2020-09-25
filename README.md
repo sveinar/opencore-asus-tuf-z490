@@ -11,3 +11,18 @@
 * Corsair Vengenance RGB PRO 64GB 3200MHz
 * NZXT Kraken X63
 
+## OpenCore
+
+Version 0.6.1.
+
+## What is working
+
+* iGPU
+* Audio out from the MB
+* Bluetooth 5 devices
+
+## What is not working
+
+* Bluetooth 4 devices
+* HDMI/DP audio (dual booting to Windows and Realtek drivers overwriting)
+
