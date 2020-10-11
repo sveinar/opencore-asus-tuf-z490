@@ -328,7 +328,7 @@
 				<key>BundlePath</key>
 				<string>itlwmx_v1.0.0_stable.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Not need due to Wireless Card BCM94360CD</string>
 				<key>Enabled</key>
 				<false/>
 				<key>ExecutablePath</key>
@@ -346,9 +346,9 @@
 				<key>BundlePath</key>
 				<string>itlwmx_v1.0.0_stable.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Not need due to Wireless Card BCM94360CD</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/itlwmx</string>
 				<key>MaxKernel</key>
@@ -362,9 +362,9 @@
 				<key>BundlePath</key>
 				<string>IntelBluetoothFirmware.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Not need due to Wireless Card BCM94360CD</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothFirmware</string>
 				<key>MatchKernel</key>
@@ -376,9 +376,9 @@
 				<key>BundlePath</key>
 				<string>IntelBluetoothInjector.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Not need due to Wireless Card BCM94360CD</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothInjector</string>
 				<key>MatchKernel</key>
