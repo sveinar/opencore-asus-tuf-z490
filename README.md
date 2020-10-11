@@ -11,6 +11,9 @@
 * Corsair Vengenance RGB PRO 64GB 3200MHz
 * NZXT Kraken X63
 
+* For Wifi and Bluetooth
+  * Wireless Network Card BCM94360CD Bluetooth 4.0 802.11AC Dual-band For Desktop
+
 ## OpenCore
 
 Version 0.6.1.
@@ -19,10 +22,8 @@ Version 0.6.1.
 
 * iGPU
 * Audio out from the MB
-* Bluetooth 5 devices
+* Bluetooth and Wifi using BCM94360CD card
 
 ## What is not working
 
-* Bluetooth 4 devices
 * HDMI/DP audio (dual booting to Windows and Realtek drivers overwriting)
-
