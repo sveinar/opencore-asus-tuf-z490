@@ -23,6 +23,8 @@ Version 0.6.1.
 * iGPU
 * Audio out from the MB
 * Bluetooth and Wifi using BCM94360CD card
+* Handoff
+* Airdrop
 
 ## What is not working
 
