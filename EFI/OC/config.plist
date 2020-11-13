@@ -530,7 +530,7 @@
 					<key>SystemAudioVolume</key>
 					<data>Rg==</data>
 					<key>boot-args</key>
-					<string>keepsyms=1 debug=0x100 darkwake=8 alcid=2 -wegnoegpu igfxframe=0x3E9B0007</string>
+					<string>keepsyms=1 debug=0x100 darkwake=8 alcid=1 -wegnoegpu igfxframe=0x3E9B0007</string>
 					<key>run-efi-updater</key>
 					<string>No</string>
 					<key>csr-active-config</key>
@@ -642,7 +642,7 @@
 				<key>AudioDevice</key>
 				<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 				<key>AudioOut</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>AudioSupport</key>
 				<false/>
 				<key>MinimumVolume</key>
